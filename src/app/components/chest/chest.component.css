@@ -1,0 +1,14 @@
+img{
+    height: 200px;
+    width: 600px;
+    padding: 5px;
+    border: solid 4px gold;
+    align-items: center;
+    box-shadow: 10px 10px 10px;
+}
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
